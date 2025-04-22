@@ -60,8 +60,4 @@ The dataset contains Walmart store transactions with the following columns:
 
 1. Import the dataset into MySQL.
 2. Run the `.sql` script in MySQL Workbench or any compatible SQL client.
-3. View insights directly or connect your database to a BI tool (e.g., Power BI) for visualization.
 
-## 📬 Contact
-
-Feel free to connect with me on [LinkedIn](#) or reach out via GitHub issues if you have any questions or feedback!
